@@ -67,7 +67,7 @@ function importProgress() {
     $("#import-success").collapse('show');
 }
 
-var tables = ["quests", "quests-dlc", "quests-blade", "blades", "blades-ng", "blades-dlc", "shopdeeds", "uniquemonsters", "hearttoheart", "mercmissions", "secretareas", "expman", "bspon", "foorara", "doubloons"];
+var tables = ["quests", "quests-dlc", "quests-blade", "blades", "blades-ng", "blades-dlc", "shopdeeds", "uniquemonsters", "hearttoheart", "mercmissions", "locations", "expman", "bspon", "foorara", "doubloons"];
 var defs = {
     "quests-fil": true,
     "quests-col": [{
@@ -442,15 +442,15 @@ var defs = {
             filterStrictSearch: false
         }
     ],
-    "secretareas-fil": false,
-    "secretareas-col": [{
+    "locations-fil": false,
+    "locations-col": [{
             field: 'name',
             title: 'Name',
             sortable: true
         },
         {
-            field: 'location',
-            title: 'Location',
+            field: 'area',
+            title: 'area',
             sortable: true
         },
         {
