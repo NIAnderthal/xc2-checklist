@@ -1,6 +1,6 @@
 # [Xenoblade Chronicles 2 Completion Checklist](https://r52.github.io/xc2-checklist/)
 
-A Xenoblade Chronicles 2 Completion Checklist for completionists.
+A Xenoblade Chronicles 1 Completion Checklist for completionists.
 
 For online access, use https://r52.github.io/xc2-checklist/
 
