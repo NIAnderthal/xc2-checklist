@@ -1,4 +1,4 @@
-# [Xenoblade Chronicles 2 Completion Checklist](https://r52.github.io/xc2-checklist/)
+# [Xenoblade Chronicles 1 Completion Checklist](https://r52.github.io/xc2-checklist/)
 
 A Xenoblade Chronicles 1 Completion Checklist for completionists.
 
